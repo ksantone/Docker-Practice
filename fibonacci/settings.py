@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Third Party Apps
-    #'django_celery_results',
+    'django_celery_results',
 
     # Custom Apps
     'pipelines',
